@@ -1,0 +1,11 @@
+ImpressCMS 1.3.11
+======================
+This is a maintenance release that fixes several issues that were found during the re-development of the main ImpressCMS.org site.
+
+Installation
+------------
+Unzip the contents of the 'htdocs' folder in the root folder of your site, and go in a browser to the address of your site. ImpressCMS will detect that no configuration is present, and will start the installation procedure to help you setup your site on your webserver.
+
+Update
+------
+When updating from a previous version in the 1.3 series, overwrite your existing installation and update the system module once you are logged in, that will bring you to the latest version.

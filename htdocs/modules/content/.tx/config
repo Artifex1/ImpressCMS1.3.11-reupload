@@ -1,0 +1,34 @@
+[main]
+host = https://www.transifex.com
+lang_map = en: english, nl: nederlands, it: italiano, fr:francais
+
+[icms-content.language-ln-adminphp]
+file_filter = ./language/<lang>/admin.php
+source_lang = en
+type = PHP_DEFINE
+
+[icms-content.language-ln-blocks_php]
+file_filter = ./language/<lang>/blocks.php
+source_lang = en
+type = PHP_DEFINE
+
+[icms-content.language-ln-common_php]
+file_filter = ./language/<lang>/common.php
+source_lang = en
+type = PHP_DEFINE
+
+[icms-content.language-ln-mail__template-global__content__published_tpl]
+file_filter = ./language/<lang>/mail_template/global_content_published.tpl
+source_lang = en
+type = TXT
+
+[icms-content.language-ln-main_php]
+file_filter = ./language/<lang>/main.php
+source_lang = en
+type = PHP_DEFINE
+
+[icms-content.modinfophp]
+file_filter = ./language/<lang>/modinfo.php
+source_lang = en
+type = PHP_DEFINE
+
